@@ -46,4 +46,3 @@ function displayNews(articles) {
     container.appendChild(card);
   });
 }
-
